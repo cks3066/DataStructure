@@ -1,1 +1,1 @@
-## making own calculator
+## Making own calculator
