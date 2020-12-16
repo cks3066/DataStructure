@@ -13,7 +13,7 @@
 #include <stdlib.h>
 #include <cassert>
 #include <algorithm>
-#include "MyIntVector.cpp"
+#include "MyIntVector.h"
 
 
 using namespace std;
