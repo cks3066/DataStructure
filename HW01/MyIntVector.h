@@ -1,13 +1,8 @@
-/*
-ÀÚ·á±¸Á¶ HW1
-2015405060 ¿Â½ÂÂù
-*/
-
-//MyIntVector Ã¼Å©
-//printf() , scanf() ÇÔ¼ö »ç¿ë x
-// vector »ç¿ë x
-// Àü¿ª º¯¼ö »ç¿ë x
-// precondition , postcondition ÀÛ¼º
+//MyIntVector ì²´í¬
+//printf() , scanf() í•¨ìˆ˜ ì‚¬ìš© x
+// vector ì‚¬ìš© x
+// ì „ì—­ ë³€ìˆ˜ ì‚¬ìš© x
+// precondition , postcondition ì‘ì„±
 
 #ifndef MYINTVECTOR_H
 #define MYINTVECTOR_H
