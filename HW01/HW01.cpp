@@ -1,8 +1,3 @@
-/* 
-자료구조 HW1
-2015405060 온승찬 
-*/
-
 //MyIntVector 체크
 //printf() , scanf() 함수 사용 x
 // vector 사용 x
