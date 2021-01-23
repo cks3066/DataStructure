@@ -1,6 +1,3 @@
-/*2015405060 ¿Â½ÂÂù*/
-/*Visual Studio 2019*/
-
 #include <iostream>
 #include <unordered_map>
 #include <string>
